@@ -1,0 +1,8 @@
+pin\strengthchecker\PasswordStrengthCheckerTest.class
+pin\components\DigitComponentTest.class
+pin\components\SpecialCharComponentTest.class
+pin\components\LowerCaseComponentTest.class
+pin\components\PasswordComponentFactoryTest.class
+pin\observer\PasswordNotifierTest.class
+pin\generator\PasswordConfigurationTest.class
+pin\components\UpperCaseComponentTest.class

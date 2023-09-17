@@ -1,0 +1,12 @@
+pin\components\PasswordComponentFactory.class
+pin\components\PasswordComponent.class
+pin\generator\PasswordConfiguration.class
+pin\components\LowerCaseComponent.class
+pin\strengthchecker\PasswordStrengthChecker.class
+pin\generator\PasswordGenerator.class
+pin\Main.class
+pin\components\SpecialCharComponent.class
+pin\observer\PasswordObserver.class
+pin\components\UpperCaseComponent.class
+pin\observer\PasswordNotifier.class
+pin\components\DigitComponent.class
